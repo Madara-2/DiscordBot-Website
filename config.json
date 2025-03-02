@@ -1,12 +1,23 @@
 {
   "port": "8000",
-  "name": "Recluse Bot",
-  "description": "Recluse is the only Discord bot you'll ever need. It has powerfull latest features which can manage discord server. It contains latest discord features like buttons, forms, menu, etc",
-  "invite": "https://discord.com/oauth2/authorize?scope=bot+applications.commands&client_id=235148962103951360&permissions=37088600",
-  "support": "https://discord.gg/whJeF4mDAX",
-  "pfp": "https://cdn.discordapp.com/attachments/1027603800153919600/1028236433439338496/1665221033192.png",
+  "name": "DJ Skye",
+  "description": "Introducing DJ Skye, your ultimate music companion! DJ Skye is a cutting-edge music bot designed to transform your listening experience. With seamless voice command integration, DJ Skye stands out by offering personalized playlists, instant song requests, and genre-based mixes tailored to your mood. Whether you’re hosting a party or relaxing at home, DJ Skye has got you covered.
+
+Key features include:
+
+Song Requests: Instantly play any track from a vast library.
+Curated Playlists: Personalized playlists based on your preferences.
+Genre Mixes: Custom mixes for any genre, perfect for any occasion.
+Mood Music: Playlists tailored to your current mood or activity.
+Interactive Commands: Easy-to-use voice commands for hands-free control.
+Smart Suggestions: Discover new music with intelligent recommendations.
+Seamless Integration: Compatible with all major music streaming services.
+Commands like “Play [song/artist/genre],” “Create a playlist,” and “What’s this song?” ensure that DJ Skye is always at your service, making every musical moment unforgettable. Experience the future of music with DJ Skye!",
+  "invite": "https://discord.com/oauth2/authorize?client_id=1206229672845639710&permissions=2150754560&integration_type=0&scope=bot",
+  "support": "https://discord.gg/6zCFUDHygV",
+  "pfp": "https://cdn.discordapp.com/avatars/1206229672845639710/cfca24599b33352704f7c76a70fe47e3.png?size=1024",
   "feature1": "Music, It can play different kind of music from different platforms like spotify, apple, etc.",
-  "feature2": "Moderation, It has many moderation command with latest discord fetures like timeout.",
-  "feature3": "Anime, It contain anime commands where you can get information of chatacters, find images.",
-  "feature4": "Ticket, It is very easy to pull the ticket and close it. It has buttons to make more easy to use."
+  "feature2": "Create a playlist,” and “What’s this song?” ensure that DJ Skye is always at your service",
+  "feature3": "Discover new music with intelligent recommendations.",
+  "feature4": "Instantly play any track from a vast library."
 }
